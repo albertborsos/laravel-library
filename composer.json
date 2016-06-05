@@ -1,0 +1,18 @@
+{
+  "name": "albertborsos/laravel-library",
+  "description": "Useful classes for Laravel Framework",
+  "keywords": ["laravel", "library", "extension"],
+  "type": "laravel-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Albert Borsos",
+      "email": "hello@borsosalbert.hu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "albertborsos\\library\\": "src/"
+    }
+  }
+}
