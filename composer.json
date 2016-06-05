@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "albertborsos\\library\\": "src/"
+      "AlbertBorsos\\Library\\": "src/"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace albertborsos\library\Illuminate\Database\Schema;
+namespace AlbertBorsos\Library\Database\Schema;
 
 class Blueprint extends \Illuminate\Database\Schema\Blueprint
 {
