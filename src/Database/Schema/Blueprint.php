@@ -9,7 +9,7 @@ class Blueprint extends \Illuminate\Database\Schema\Blueprint
      *
      * @return void
      */
-    public function timestamps()
+    public function blames()
     {
         $this->integer('created_by')->nullable();
 
