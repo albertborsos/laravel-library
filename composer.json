@@ -3,13 +3,16 @@
   "description": "Useful classes for Laravel Framework",
   "keywords": ["laravel", "library", "extension"],
   "type": "laravel-extension",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Albert Borsos",
       "email": "hello@borsosalbert.hu"
     }
   ],
+  "require": {
+    "laravel/framework": "5.2"
+  },
   "autoload": {
     "psr-4": {
       "albertborsos\\library\\": "src/"
